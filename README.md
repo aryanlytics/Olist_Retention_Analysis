@@ -77,7 +77,7 @@ However, **operational improvements cannot close this gap** because the problem 
 
 
 
-## Analysis & Diagnosis
+# **Analysis & Diagnosis**
 
 ### 1. Validating the Retention Crisis
 
