@@ -6,7 +6,7 @@
 ### **Why 97% of First-Time Buyers Never Return**
 ## Introduction
 
-### **Who is Olist?**
+### **Olist**
 
 Olist is a Brazilian e-commerce platform that connects small and medium-sized sellers to large online marketplaces like Mercado Livre. The platform provides tools for order management, logistics integration, payments, and customer support, helping sellers reach customers across Brazil without managing their own infrastructure.
 
